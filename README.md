@@ -9,7 +9,7 @@
 
 **Download:**
 
-**version: 1.0.0** [ArithmeticTrainer #ed68819](link will be here)
+**version: 1.0.0** [KFDGenerator #ed68819](link will be here)
 
 
 ## How to use
