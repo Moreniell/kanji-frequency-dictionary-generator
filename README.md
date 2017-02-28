@@ -9,7 +9,7 @@
 
 **Download:**
 
-**version: 1.0.0** [ArithmeticTrainer #ed68819](link will be here)
+**version: 1.0-aplha.1** [KFDGenerator #24bdfdf](https://github.com/Moreniell/kanji-frequency-dictionary-generator/releases/download/v1.0-aplha.1/release.zip)
 
 
 ## How to use
